@@ -24,6 +24,8 @@ Open-source tools that make Python development faster, leaner, and more enjoyabl
 
 ## Projects
 
+### HTTP & Web
+
 <table>
 <tr>
 <td width="50%">
@@ -36,7 +38,7 @@ Async HTTP client with expressive logging and route-based requests.
 <td width="50%">
 
 ### [fasthttp-gui](https://github.com/ndugram/fasthttp-gui) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/fasthttp-gui?style=flat-square&color=58a6ff)
-Lightweight HTTP client. Dark, fast, no bloat.  
+Lightweight HTTP client for developers. Dark, fast, no bloat. Built with Tauri & React.  
 `Tauri` &nbsp;`React` &nbsp;`TypeScript`
 
 </td>
@@ -44,32 +46,68 @@ Lightweight HTTP client. Dark, fast, no bloat.
 <tr>
 <td width="50%">
 
+### [fasthttp-extension](https://github.com/ndugram/fasthttp-extension) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/fasthttp-extension?style=flat-square&color=58a6ff)
+VS Code extension for FastHTTP — scaffold projects, explore routes, and catch errors right in the editor.  
+`VS Code` &nbsp;`TypeScript`
+
+</td>
+<td width="50%">
+
+### [fastui2](https://github.com/ndugram/fastui2) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/fastui2?style=flat-square&color=58a6ff)
+Build web UIs with Python decorators, compile to HTML, zero JavaScript required.  
+`Python` &nbsp;`FastUI`
+
+</td>
+</tr>
+</table>
+
+### Bots & CLI
+
+<table>
+<tr>
+<td width="50%">
+
 ### [fastgram-cli](https://github.com/ndugram/fastgram-cli) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/fastgram-cli?style=flat-square&color=58a6ff)
-CLI terminal tool for Python developers.  
+CLI tool for FastAPI developers — scaffold projects, manage settings, generate SSL certificates.  
 `Python` &nbsp;`CLI` &nbsp;`MIT`
 
 </td>
 <td width="50%">
 
-### [ncorn](https://github.com/ndugram/ncorn) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/ncorn?style=flat-square&color=58a6ff)
-ASGI web server built for FastAPI apps.  
-`Python` &nbsp;`ASGI` &nbsp;`FastAPI`
+### [fastvk](https://github.com/ndugram/fastvk) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/fastvk?style=flat-square&color=58a6ff)
+Async VK bot framework with FastAPI-style decorators and aiogram-style FSM.  
+`Python` &nbsp;`VK API`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [mkpy](https://github.com/ndugram/mkpy) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/mkpy?style=flat-square&color=58a6ff)
-Build and project scaffolding utility for Python.  
-`Python` &nbsp;`Tooling`
+### [hitmos](https://github.com/ndugram/hitmos) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/hitmos?style=flat-square&color=58a6ff)
+AI terminal assistant powered by OpenRouter — minimal, fast, developer UX.  
+`Python` &nbsp;`CLI` &nbsp;`AI`
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### Tools
+
+<table>
+<tr>
+<td width="50%">
+
+### [pycargo](https://github.com/ndugram/pycargo) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/pycargo?style=flat-square&color=58a6ff)
+Python compiler with its own bytecode VM — written in Rust.  
+`Rust` &nbsp;`Compilers`
 
 </td>
 <td width="50%">
 
-### [Python-IDE](https://github.com/ndugram/Python-IDE) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/Python-IDE?style=flat-square&color=58a6ff)
-Python IDE for the web. React.js frontend + FastAPI backend.  
-`TypeScript` &nbsp;`React` &nbsp;`FastAPI`
+### [ndu-dark](https://github.com/ndugram/ndu-dark) &nbsp; ![Stars](https://img.shields.io/github/stars/ndugram/ndu-dark?style=flat-square&color=58a6ff)
+A VS Code theme that looks like PyCharm stayed up all night.  
+`VS Code Theme` &nbsp;`MIT`
 
 </td>
 </tr>
